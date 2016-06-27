@@ -21,5 +21,5 @@ Server : Omega Server (University of Texas, Arlington).
 Front-End : Bootstrap, HTML, CSS.
 Connectivity : PHP.
 Statistics : Google Charts.
- 
+
 
