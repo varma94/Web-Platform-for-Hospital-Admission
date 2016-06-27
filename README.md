@@ -13,7 +13,7 @@ Sunday, June 26, 2016
 * All the above factors were taken into consideration and ranking was given.
 * This website also displays the same information in the form of statistics for which we have used Google Charts.
 * After the development the web page was hosted on the college server at http://omega.uta.edu/~sxv7644/doctor/index.html.
- 
+
 Technologies Used :
 
 Database : MySQL.
